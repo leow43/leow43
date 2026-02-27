@@ -1,20 +1,38 @@
-## Information about me
-- Im 14 years old, from Canada
-- My dream is to become an software engineer
-- I make cheats for Roblox and various Unreal Engine games & Offset dumpers.
+## 👋 About Me
 
-## What languages do i know?
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" height="50"/>
+- 14 years old 🇨🇦
+- Aspiring Software Engineer
+- I build tools and experiment with game engines & reverse engineering projects
 
-- Im very used to C++ as it was the first language i've been really interested in since 2023-2024, but never really learned started learning more about c++ during 2025 at the begin of summer
-- I know basic C as i learned a bit of it for fun for one of my old projects
-- I know an decent amount luaU due to my knowledge of the Roblox Engine
+---
 
-# What am i currently learning?
-- At the moment im learning Kernel, Golang, and some Rust
+## 🧠 Languages I Use
 
-# One more thing about me!
-- I like helping out people who are new to coding and cheat development in general, so free feel to dm me on discord at @leow43 but i will not always just spoonfeed you code sorry!
-- I like to post bases and full on cheat source codes for the community to learn and expand on
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45" height="45"/>
+</p>
+
+- **C++** – My main language since 2023. Started seriously deep-diving into it in 2025.
+- **C** – Basic knowledge from older experimental projects.
+- **LuaU** – Comfortable due to experience with the Roblox engine.
+
+---
+
+## 📚 Currently Learning
+
+- Kernel development
+- Go (Golang)
+- Rust
+
+---
+
+## 🤝 Community
+
+- I enjoy helping people who are new to programming.
+- Feel free to DM me on Discord: **@leow43**
+- I share learning resources and open-source bases for educational purposes.
+- Please note: I don’t spoon-feed code — I prefer helping people understand concepts.
+
+---
