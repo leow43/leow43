@@ -23,8 +23,8 @@
 ## 📚 Currently Learning
 
 - Kernel development
-- Go (Golang)
-- Rust
+- Usermode development
+- Window internals
 
 ---
 
@@ -33,6 +33,6 @@
 - I enjoy helping people who are new to programming.
 - Feel free to DM me on Discord: **@leow43**
 - I share learning resources and open-source bases for educational purposes.
-- Please note: I don’t spoon-feed code — I prefer helping people understand concepts.
+- Please note: I don’t spoon-feed code, I prefer helping people understand concepts.
 
 ---
