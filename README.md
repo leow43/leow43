@@ -6,4 +6,3 @@
 
 ## Languages
 - C++ (Relearning)
-- LuaU (Experience with it a bit in 2020-2025)
